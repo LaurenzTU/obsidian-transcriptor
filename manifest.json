@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-transcriptor",
+  "name": "Transcriptor",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Transcribe audio from recordings or files using the OpenAI Whisper API.",
+  "author": "Laurenzius",
+  "authorUrl": "https://github.com/LaurenzTU/obsidian-transcriptor",
+  "isDesktopOnly": false
+}
